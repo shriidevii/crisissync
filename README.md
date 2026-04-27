@@ -116,6 +116,8 @@ git push  # Vercel auto-deploys from GitHub
 ---
 
 ##  Project Structure
+
+```text
 crisissync/
 ├── src/
 │   ├── pages/
@@ -140,7 +142,7 @@ crisissync/
 ├── vercel.json                # SPA routing fix
 └── .env.example               # Environment template
 
----
+```
 
 ##  Google Technologies Used
 
