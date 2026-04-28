@@ -160,4 +160,4 @@ crisissync/
 **Team:** CrisisSync  
 **Challenge:** Rapid Crisis Response — Hospitality Emergency Coordination  
 **Hackathon:** Solution Challenge 2026 | Build with AI | Hack2Skill  
-**Submission Deadline:** 28 April 2026
+
