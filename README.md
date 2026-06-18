@@ -4,7 +4,7 @@
 > Problem: Rapid Crisis Response — Accelerated Emergency Response 
 > and Crisis Coordination in Hospitality
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-red)]([https://your-vercel-url.vercel.app](https://crisissync-xi.vercel.app/login))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-red)](https://crisissync-xi.vercel.app/login))
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/shriidevii/crisissync)
 
 ---
